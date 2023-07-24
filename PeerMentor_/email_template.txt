@@ -1,0 +1,1 @@
+To:      {email}From:    no-reply@pythonbooks.comSubject: Python Book Deals!Hi {first_name},We've got some great deals for you. Check our Python book website!
